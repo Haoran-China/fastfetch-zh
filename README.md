@@ -22,8 +22,6 @@
 - 👉 [下载 aarch64 (64位 ARM) 版本](https://github.com/Haoran-China/fastfetch-zh/releases/download/v1.0.0/fastfetch-aarch64)
 - 👉 [下载 arm32 (32位 ARM) 版本](https://github.com/Haoran-China/fastfetch-zh/releases/download/v1.0.0/fastfetch-arm32)
 
-*(注：请将上方链接中的 `你的用户名` 替换为你真实的 GitHub 用户名)*
-
 ### 🚀 手动使用步骤
 
 1. 将下载的文件重命名为 `fastfetch`。
