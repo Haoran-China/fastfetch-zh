@@ -37,12 +37,12 @@
 
 ## 📄 项目文件名称
 
-     ```bash
-      fastfetch.zip
-     ```
+```bash
+fastfetch.zip
 
 ## 📄 许可证
 
 [MIT License](LICENSE)
 
 请在使用、修改或分发本项目时，保留原作者的版权声明及本开源协议。
+```
