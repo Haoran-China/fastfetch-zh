@@ -36,8 +36,6 @@
 - `fastfetch-aarch64`：用于 64 位 ARM 架构编译。
 - `fastfetch-arm32`：用于 32 位 ARM 架构编译。
 
-进入对应的构建目录，执行 `make` 即可生成可执行文件。
-
 ## 📄 许可证
 
 [MIT License](LICENSE)
