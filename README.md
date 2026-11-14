@@ -13,17 +13,22 @@
 
 - **完全汉化**：系统信息面板、输出信息等全面中文化。
 - **多架构支持**：提供以下主流 ARM 架构的预编译文件：`aarch64` (64位 ARM) 与 `arm32` (32位 ARM)。
-- **开箱即用**：无需配置复杂的编译环境，下载即可运行。
+- **开箱即用**：无需配置复杂的编译环境，下载即可直接运行。
 
-## 📥 下载与使用
+## 📥 下载与安装
 
-请前往本仓库的 Releases 页面，根据你的系统架构下载对应的压缩包。
+请根据你的设备系统架构，选择对应的版本下载（建议在 Termux 等终端环境使用）：
 
-**使用步骤：**
+- 👉 [下载 aarch64 (64位 ARM) 版本](https://github.com/Haoran-China/fastfetch-zh/releases/download/v1.0.0/fastfetch-aarch64)
+- 👉 [下载 arm32 (32位 ARM) 版本](https://github.com/Haoran-China/fastfetch-zh/releases/download/v1.0.0/fastfetch-arm32)
 
-1. 解压下载的压缩包。
-2. 在终端中赋予执行权限：输入 `chmod +x fastfetch`
-3. 运行程序：输入 `./fastfetch`
+*(注：请将上方链接中的 `你的用户名` 替换为你真实的 GitHub 用户名)*
+
+### 🚀 手动使用步骤
+
+1. 将下载的文件重命名为 `fastfetch`。
+2. 在终端中赋予执行权限：`chmod +x fastfetch`
+3. 运行程序：`./fastfetch`
 
 ## 🛠️ 编译指南
 
